@@ -1,1 +1,11 @@
-# agrinho---
+# agrinho-2026
+Aqui está um resumo completo do jogo em um único texto corrido, ideal para usar como apresentação ou descrição do seu projeto:
+
+CyberAgro: Safra Sustentável
+Este jogo eletrônico 2D, desenvolvido na plataforma p5.js, transporta o jogador para o comando de um trator futurista em uma fazenda digital de estética cyberpunk. O objetivo central combina entretenimento com a conscientização ecológica: o jogador deve gerenciar a colheita coletando elementos benéficos e desviando de ameaças poluidoras para manter o equilíbrio ambiental e a eficiência da produção.
+
+O visual do jogo destaca-se pelo contraste tecnológico. O cenário de fundo possui um tom azul-escuro profundo cortado por linhas de horizonte que simulam grades digitais de plantio. O veículo do jogador é construído inteiramente por formas geométricas, apresentando um chassi verde, cabine azul neon, rodas estilizadas com calotas brilhantes e um feixe de luz dinâmico projetado pelos faróis. Na interface superior, o jogador acompanha em tempo real seus dois principais indicadores com uma fonte estilo computacional: a Produtividade (XP) e a Biodiversidade, esta última representada por corações verdes que funcionam como o sistema de vidas.
+
+A mecânica de jogabilidade é fluida, permitindo o controle do trator tanto pelas setas do teclado quanto pelo movimento do mouse. Do topo da tela, caem continuamente objetos com tamanhos e velocidades variadas. Os elementos estão divididos em duas categorias: os Itens Sustentáveis (Energia Solar, Bio-Semente e Gota d'Água Pura), que possuem o formato de folhas bioluminescentes e geram pontos de XP ao serem coletados; e os Poluentes (Agrotóxico e Fumaça Carbono), representados por nuvens tóxicas que, ao colidirem com o veículo, subtraem pontos e reduzem a Biodiversidade do jogador. Há também uma penalidade estratégica: caso o jogador ignore e deixe um item sustentável sumir pela parte inferior da tela, ele perde pontos de produtividade.
+
+O ciclo do jogo termina quando o indicador de Biodiversidade é zerado. Nesse momento, a colheita é interrompida e o ecossistema entra em colapso, acionando a tela de "FAZENDA PARALISADA!". O jogo exibe a pontuação final alcançada e oferece uma reinicialização instantânea através de um clique na tela, permitindo que o jogador limpe o campo, resete suas vidas e comece uma nova safra em busca de um recorde mais sustentável.
