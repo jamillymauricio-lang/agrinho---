@@ -1,5 +1,4 @@
 # agrinho-2026
-Aqui está um resumo completo do jogo em um único texto corrido, ideal para usar como apresentação ou descrição do seu projeto:
 
 CyberAgro: Safra Sustentável
 Este jogo eletrônico 2D, desenvolvido na plataforma p5.js, transporta o jogador para o comando de um trator futurista em uma fazenda digital de estética cyberpunk. O objetivo central combina entretenimento com a conscientização ecológica: o jogador deve gerenciar a colheita coletando elementos benéficos e desviando de ameaças poluidoras para manter o equilíbrio ambiental e a eficiência da produção.
